@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/be293956-b46c-4c2d-b715-cf0e16aa6c85/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/API-GeoScavenge",
+    "appService.deploySubpath": "."
+}
