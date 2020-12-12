@@ -4,8 +4,8 @@ const app = express();
 const mysql = require('mysql');
 const conn = mysql.createConnection({
     host: "geoscavengedb.mysql.database.azure.com", 
-    user: "Mrod@geoscavengedb", 
-    password: "Rampage151998!", 
+    user: "user", 
+    password: "password", 
     database: "geoscavenge", 
     port: 3306, 
 });
